@@ -67,8 +67,7 @@ I built a **4-page Power BI analytics framework** that answers the only question
 ### Page 2: Guest Satisfaction Drivers
 *Answers: "What specific actions improve ratings and justify premium pricing?"*
 
-![Guest Satisfaction Dashboard](screenshots/page2-guest-satisfaction.png)
-
+![Guest Satisfaction Dashboard] <img width="1512" height="847" alt="Image" src="https://github.com/user-attachments/assets/5e3386e8-a537-452f-b1f6-f34ad4e9b2e7" />
 **Key Metrics Tracked:**
 - Market Average Rating: 93/100
 - High Performers: 61% score 94+
