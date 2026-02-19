@@ -202,25 +202,25 @@ Actionable Recommendations (90-day roadmap)
 ##  Skills Demonstrated
 
 ### Business Analysis
-✅ Strategic problem framing (4 high-impact questions)  
-✅ ROI modeling and financial impact quantification  
-✅ Competitive market intelligence  
-✅ Data-driven decision frameworks  
-✅ Client-facing communication (no jargon)
+- Strategic problem framing (4 high-impact questions)
+- ROI modeling and financial impact quantification
+- Competitive market intelligence
+- Data-driven decision frameworks
+- Client-facing communication (no jargon)
 
 ### Technical Execution
-✅ Power BI dashboard development (4-page framework)  
-✅ DAX measure creation (42 custom KPIs)  
-✅ Data modeling and relationships  
-✅ Visual design for non-technical users  
-✅ Performance optimization for 280K+ records
+- Power BI dashboard development (4-page framework)
+- DAX measure creation (42 custom KPIs)
+- Data modeling and relationships
+- Visual design for non-technical users
+- Performance optimization for 280K+ records
 
 ### Domain Expertise
-✅ Hospitality revenue optimization  
-✅ Airbnb algorithm understanding  
-✅ Pricing strategy and market positioning  
-✅ Guest satisfaction psychology  
-✅ Real estate investment analysis
+- Hospitality revenue optimization
+- Airbnb algorithm understanding
+- Pricing strategy and market positioning
+- Guest satisfaction psychology
+- Real estate investment analysis
 
 ---
 
@@ -306,7 +306,7 @@ Airbnb-Revenue-Optimization/
 ### Ready to Transform Your Airbnb Performance?
 
 
-**Upwork:** [View Profile & Hire Me](your-upwork-profile)  
+**Upwork:** [View Profile & Hire Me](https://www.upwork.com/freelancers/~0137c255a0a3fd5490?mp_source=share)  
 
 
 
@@ -365,7 +365,7 @@ This project showcase is © 2026. The methodology, framework, and insights are p
 
 ## Ready to Stop Leaving Money on the Table?
 
-[![Hire Me on Upwork](https://img.shields.io/badge/Hire_Me-Upwork-success?style=for-the-badge&logo=upwork)](your-upwork-link)
+[![Hire Me on Upwork](https://img.shields.io/badge/Hire_Me-Upwork-success?style=for-the-badge&logo=upwork)](https://www.upwork.com/freelancers/~0137c255a0a3fd5490?mp_source=share)
 
 
 **Response Time:** Within 24 hours  
