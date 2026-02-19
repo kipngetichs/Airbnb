@@ -85,8 +85,7 @@ I built a **4-page Power BI analytics framework** that answers the only question
 ### Page 3: Geographic Performance
 *Answers: "Which district offers best risk-adjusted returns?"*
 
-![Geographic Performance Dashboard](screenshots/page3-geographic-analysis.png)
-
+![Geographic Performance Dashboard] <img width="1505" height="845" alt="Image" src="https://github.com/user-attachments/assets/25dbcc96-17fb-4015-a9e8-2f8039eb4952" />
 **Key Metrics Tracked:**
 - 6 Districts Analyzed
 - Competition Density: 289 (Staten Island) to 16,553 (Manhattan) listings
