@@ -49,7 +49,7 @@ I built a **4-page Power BI analytics framework** that answers the only question
 ### Page 1: Pricing Power Analysis
 *Answers: "How do I price to maximize revenue without sitting empty?"*
 
-![Pricing Power Dashboard] <img width="1509" height="851" alt="Image" src="https://github.com/user-attachments/assets/345073dc-ad0a-4fba-bd11-31f6b325ee4f" />
+![Pricing Power Dashboard] <img width="1518" height="849" alt="Image" src="https://github.com/user-attachments/assets/b9206162-0b06-49e2-8cbf-772dcf952a01" />
 **Key Metrics Tracked:**
 - Median Market Price: $150
 - Superhost Premium: +$68/night
