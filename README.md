@@ -1,8 +1,8 @@
 # 🏠 Airbnb Revenue Optimization Engine
 ### Transforming $12,000 Properties into $35,000+ Annual Performers Through Data-Driven Strategy
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Live_Dashboard-blue)]((https://kipngetichs.github.io/web-link/))
-[![Upwork](https://img.shields.io/badge/Hire_Me-Upwork-success)](your-upwork-link)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Live_Dashboard-blue)](https://kipngetichs.github.io/web-link/)
+[![Upwork](https://img.shields.io/badge/Hire_Me-Upwork-success)](https://www.upwork.com/freelancers/~0137c255a0a3fd5490?mp_source=share)
 
 
 ---
@@ -49,8 +49,7 @@ I built a **4-page Power BI analytics framework** that answers the only question
 ### Page 1: Pricing Power Analysis
 *Answers: "How do I price to maximize revenue without sitting empty?"*
 
-![Pricing Power Dashboard](screenshots/page1-pricing-power.png)
-
+![Pricing Power Dashboard] <img width="1509" height="851" alt="Image" src="https://github.com/user-attachments/assets/345073dc-ad0a-4fba-bd11-31f6b325ee4f" />
 **Key Metrics Tracked:**
 - Median Market Price: $150
 - Superhost Premium: +$68/night
