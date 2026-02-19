@@ -112,7 +112,7 @@ I built a **4-page Power BI analytics framework** that answers the only question
 ### Page 4: Booking Flexibility Impact
 *Answers: "How should I configure policies to maximize bookings and revenue?"*
 
-![Booking Flexibility Dashboard](screenshots/page4-booking-flexibility.png)
+![Booking Flexibility Dashboard] <img width="1505" height="849" alt="Image" src="https://github.com/user-attachments/assets/a910a86d-5fa5-44c1-a5fd-917256f5eda3" />
 
 **Key Metrics Tracked:**
 - Flexibility Premium: +$136/night
