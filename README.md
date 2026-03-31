@@ -1,7 +1,7 @@
 # 🏠 Airbnb Revenue Optimization Engine
 ### Transforming $12,000 Properties into $35,000+ Annual Performers Through Data-Driven Strategy
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Live_Dashboard-blue)](https://kipngetichs.github.io/web-link/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Live_Dashboard-blue)](https://kipngetichs.github.io/Business-Analyst/)
 [![Upwork](https://img.shields.io/badge/Hire_Me-Upwork-success)](https://www.upwork.com/freelancers/~0137c255a0a3fd5490?mp_source=share)
 
 
